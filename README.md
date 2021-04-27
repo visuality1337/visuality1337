@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://github.com/Visual9999">
+    <img src="https://discord.c99.nl/widget/theme-1/688329382011600917.png" alt="armfxl"/>
+     </a>
+</p>
+
+
+
 <h3 align="center">Visual9999</h3>
 <br>
 <br>
@@ -7,7 +15,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/node/node.png"></code>
 </h2>
 <br>
 <br>
