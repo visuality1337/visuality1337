@@ -1,12 +1,10 @@
 <h3 align="center">Visual9999</h3>
 <br>
-<br>
 <p align="center">
   <a href="https://github.com/Visual9999">
     <img src="https://discord.c99.nl/widget/theme-1/688329382011600917.png" alt="armfxl"/>
      </a>
 </p>
-<br>
 <br>
 <h2 align="center">Languages:
 <br>
