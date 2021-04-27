@@ -5,7 +5,6 @@
     <img src="https://discord.c99.nl/widget/theme-1/688329382011600917.png" alt="armfxl"/>
      </a>
 </p>
-<br>
 <h2 align="center">Languages:
 <br>
 <br>
