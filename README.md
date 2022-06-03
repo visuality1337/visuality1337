@@ -1,7 +1,7 @@
 <p align="center">
-	<a href="https://github.com/Visual9999">
-		<img src="https://discord.c99.nl/widget/theme-3/821864201127067648.png"/>
-	</a>
+    <a href="https://github.com/xenos1337">
+        <img src="https://lanyard-profile-readme.vercel.app/api/492278266065846273?bg=0d1117&borderRadius=0"/>
+    </a>
 </p>
 
 <p align="center">
