@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/Visual9999">
-        <img src="https://lanyard-profile-readme.vercel.app/api/492278266065846273?bg=0d1117&borderRadius=0"/>
+        <img src="https://lanyard-profile-readme.vercel.app/api/492278266065846273?bg=0d1117&borderRadius="/>
     </a>
 </p>
 
