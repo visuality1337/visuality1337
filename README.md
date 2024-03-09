@@ -1,4 +1,4 @@
-<h1 align="center">visuality1337</h1>
+<h1 align="center">Visual</h1>
 <a href="https://github.com/visuality1337"></a>
 
 <p align="center">
