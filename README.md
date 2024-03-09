@@ -8,20 +8,11 @@
 </p>
 <h4 align="center">Current Known Languages: (best ➜ least)</h5>
 <p align="center">
-           <img src="https://skillicons.dev/icons?i=py,c++,cs,html,php,"/>
+           <img src="https://skillicons.dev/icons?i=py,cpp,cs,html,php,"/>
 </p>
 
 <br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=visuality1337&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" />
-</p>
-
-
-<p align="center">
-	<tr>
-		<td align="center" style="padding=0;width=50%;">
-			<img src="https://github-readme-stats.vercel.app/api/?username=visuality1337&title_color=8A2BE2&text_color=e2e2e2&show_icons=true&bg_color=00000000&hide_border=true&icon_color=8A2BE2&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true" />
-		</td>
-	</tr>
 </p>
